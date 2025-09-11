@@ -1,0 +1,1 @@
+let housesTuples :[number,string] =[2,'two']
